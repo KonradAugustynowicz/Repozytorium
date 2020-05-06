@@ -41,7 +41,7 @@ public class Main {
         System.out.println(bank.toString());
         System.out.println("nowa Galaz");
         System.out.println(bank.toString());//fort
-        //nite
+        xnms
 	// write your code here
     }
 }
