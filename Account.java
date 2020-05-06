@@ -29,7 +29,6 @@ public class Account
     {
         this.balance+=amount;
     }
-
     @Override
     public String toString() {
         return "Account{" + "nr='" + nr + '\'' + ", balance=" + balance + '}';
