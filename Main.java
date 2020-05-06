@@ -38,8 +38,8 @@ public class Main {
         System.out.println(bank.summaryofPeople());
         System.out.println(bank.summaryofCompanies());
         System.out.println(bank.summaryofBigcompanies());
-        System.out.println(bank.toString());//fort
-        //nite
+        System.out.println(bank.toString());
+        System.out.println("nowa Galaz");
 	// write your code here
     }
 }
