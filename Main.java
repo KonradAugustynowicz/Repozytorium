@@ -23,6 +23,9 @@ public class Main {
         bank.clients.add(firma1);
         bank.clients.add(firma2);
         System.out.println(bank.toString());
+		
+		//dodanie zmiany
+		System.out.println("Nowa część kodu");
 
         osoba2.accounts.get(0).deposit(1000);
         osoba2.accounts.get(1).deposit(1000);//2 razy dodane do jednego konta
