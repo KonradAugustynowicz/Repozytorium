@@ -39,7 +39,8 @@ public class Main {
         System.out.println(bank.summaryofCompanies());
         System.out.println(bank.summaryofBigcompanies());
         System.out.println(bank.toString());
-        System.out.println("nowa Galaz");//essa
+        System.out.println("nowa Galaz");
+        System.out.println("yes");
 	// write your code here
     }
 }
