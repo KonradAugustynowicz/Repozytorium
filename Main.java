@@ -40,6 +40,7 @@ public class Main {
         System.out.println(bank.summaryofBigcompanies());
         System.out.println(bank.toString());
         System.out.println("nowa Galaz");
+        System.out.println("more like stara");
 	// write your code here
     }
 }
